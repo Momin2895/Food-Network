@@ -1,0 +1,110 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    height: 40px;
+    width: 499px;
+    left: 100px;
+    top: 534px;
+    border-radius: undefinedpx;
+
+}
+
+.Eat-healthy {
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 40px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.red {
+    color: rgb(243, 25, 25);
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(248, 24, 16), rgb(247, 43, 43));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 30px;
+
+}
+
+.Aboutme {
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.recipies {
+    text-align: center;
+    width: 30%;
+    margin-left: 550px;
+    margin-bottom: 100px;
+}
+
+.all-item {
+    width: auto;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 3%;
+
+}
+
+#recipie-img1 {
+    width: 100%;
+    height: 45%;
+    border-radius: 15px;
+}
+
+#recipie-img2 {
+    width: 100%;
+    height: 45%;
+    border-radius: 15px;
+}
+
+#recipie-img3 {
+    width: 100%;
+    height: 45%;
+    border-radius: 15px;
+}
+
+.recipie-items1 {
+    width: 33%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.recipie-items2 {
+    width: 33%;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.recipie-items3 {
+    width: 33%;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#box {
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-bottom: 300px;
+    margin-top: 50px;
+}
